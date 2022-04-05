@@ -1,5 +1,6 @@
 #!/bin/bash
 
 git add currenttime
-git commit -m "auto test"
-git push origin main
+git commit -m "crontab commit"
+git push origin master
+exit 0
